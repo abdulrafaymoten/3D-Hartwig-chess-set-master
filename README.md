@@ -1,1 +1,0 @@
-# 3D-Hartwig-chess-set-master
